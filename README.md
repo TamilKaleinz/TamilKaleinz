@@ -58,4 +58,4 @@ Executive MBA, IIM Calcutta · B.Sc. Chemistry · CISA · Professional Scrum Mas
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/tamil-selvan-23104018) · Kaleinz
+[LinkedIn](https://www.linkedin.com/in/tamil-selvan-23104018) · [Kaleinz](https://kaleinz.io)
