@@ -50,7 +50,7 @@ This profile is where I work in public: real prototypes, the decisions behind th
 
 - **Founder**, Kaleinz
 - **Archimedis Digital** — Principal Consultant, Technology Delivery & Products. Agentic validation platform, domain SLM, AI Center of Excellence lead
-- **Deloitte**, 8 yrs — Senior Product Manager, ValueD (valuation platform for M&A and portfolio valuation), across the full feature set · Built an AI-first product for the Mergers, Acquisitions & Restructuring business · Product Manager, QSpace (risk-based GxP validation platform), across every phase from ideation and GTM to delivery and multi-business-unit adoption at a top-5 global pharma company · Validation Manager
+- **Deloitte**, 8 yrs — Senior Product Manager, ValueD (valuation platform for M&A and portfolio valuation), across the full feature set · Built an AI-first product for the Mergers, Acquisitions & Restructuring business · Product Manager, QSpace (risk-based GxP validation platform), across every phase from ideation and GTM to delivery and a Validation Manager for - multi-business-unit adoption at a top-5 global pharma company
 - **Cognizant** — Validation Lead across LSHC systems: pharmacovigilance, product lifecycle and lab (Oracle Argus Safety, Oracle Agile PLM, LabWare LIMS), plus provider credentialing and claims pricing (CAQH ProView, TriZetto NetworX Pricer)
 - **HSBC** — Quality Assurance Specialist
 
